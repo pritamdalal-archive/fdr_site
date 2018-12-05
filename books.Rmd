@@ -1,0 +1,30 @@
+---
+title: ""
+---
+
+&nbsp;
+
+## **Books**
+
+The lessons draw on material from the following resources.  
+
+Assignments for further reading will be given from these texts as well:
+
+[Learning Options from Data](https://pritamdalal.github.io/lod_book/) - an innovative training manual developed by the course instructor, Pritam Dalal.  The core philosophy behind this book is that wrangling and analyzing options data is one of the best ways to master the complex world of volatility markets.
+
+[R for Data Science](https://r4ds.had.co.nz/) - the definitive introduction to data analysis in the tidyverse, written by it's creator Hadley Wickham.
+
+[Advanced R](https://adv-r.hadley.nz/) - an excellent reference for deeper programming topics in R.
+
+[Options, Futures, and Other Derivatives](https://www.amazon.com/Options-Futures-Other-Derivatives-10th/dp/013447208X) - a vertible classic in quantitative finance.  One of the best introductions to derivatives theory.
+
+[Derivatives Markets](https://www.amazon.com/Derivatives-Markets-3rd-Pearson-Finance/dp/0321543084/ref=sr_1_1?s=books&ie=UTF8&qid=1544043034&sr=1-1&keywords=derivatives+markets+mcdonald) - a book of similar scope as Hull, and one the instructor's personal favorites.s
+
+
+
+<!-- *Python for Data Analysis* - Wes McKinney -->
+
+<!-- *Python Data Science Handbook* - Jake VanderPlas -->
+
+
+<!-- *Risk and Asset Allocation* - Attilio Meucci -->

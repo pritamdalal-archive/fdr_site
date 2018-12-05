@@ -1,0 +1,18 @@
+name: "fdr_website"
+output_dir: "."
+navbar:
+  title: "Financial Data Wrangling in R"
+  left:
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Tutorials"
+      href: tutorials.html
+    - text: "Books"
+      href: books.html
+    - text: "Instructor"
+      href: instructor.html
+output:
+  html_document:
+    theme: united
+    highlight: tango
+    css: style.css

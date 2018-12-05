@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+&nbsp;
+
+## **Syllabus**
+
+&nbsp;
+
+#### Prerequisites: 
+
+A laptop with R and R Studio installed on it.
+
+&nbsp;
+
+#### Introduction (8:30a - 9:15a)
+We start by giving a brief tours of the RStudio IDE as well as some of the basic data structures in R. We'll end by installing and loading the `tidyverse`.
+
+Tutorials: 01, 02, 03
+
+Reading: R4DS 20.1-20.4; AdvR Chpt 3; Jenny Bryan Purr tutorial.
+
+
+
+
+
+
+
