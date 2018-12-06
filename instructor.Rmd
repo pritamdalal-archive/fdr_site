@@ -10,9 +10,9 @@ title: ""
 
 
 <!--  height="375" -->
-Pritam has held a variety of trading and analysis roles at firms such as Cargill, Wolverine Trading, Allianz Investment Management, and Two Harbors Investment Corp. A common thread running through all of his work has been data-driven analysis, coupled with the ability to communicate those findings to fellow decision makers. These skills have been applied to areas ranging from volatility trading in commodity markets, to equity option market-making, and hedging complex annuities.
+The instructor for this course is Pritam Dalal.  Over the course of working in finance for over 10 years, Pritam has held a variety of trading and analysis roles at firms such as Cargill, Wolverine Trading, Allianz Investment Management, and Two Harbors Investment Corp. A common thread running through all of his work has been data-driven analysis, coupled with the ability to communicate those findings to fellow decision makers. These skills have been applied to areas ranging from volatility trading in commodity markets, to equity option market-making, and hedging complex annuities.
 
-Pritam is an instructor in  Univeristy of Minnesota Master of Financial Mathetmatics where he [teaches](https://pritamdalal.github.io/fm5990_site/) graduate students about the rich intersection between data science and quantitative finance.
+Pritam is an instructor in  University of Minnesota Master of Financial Mathematics where he [teaches](https://pritamdalal.github.io/fm5990_site/) graduate students about the rich intersection between data science and quantitative finance.
 
 He holds a Bachelors in Mathematics and Economics from U.C. Berkeley, and a Masters in Financial Mathematics from the University of Minnesota, Twin Cities.
 

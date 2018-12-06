@@ -9,11 +9,8 @@ title: ""
 Throughout the duration of this course we will work through (live code) most of these tutorials.  They can also serve as great practice and review after the course.
 
 
-&nbsp;
-
 [All Tutorials and Exercises](fm5990_tutorials_and_exercises_20181112.zip) - this is an R Studio project that contains all the tutorials, exercises, and data sets that will be used in the class.
 
-&nbsp;
 
 **00 Introduction to R** - a first look at R.
 
@@ -21,7 +18,7 @@ Throughout the duration of this course we will work through (live code) most of 
 
 **02 Matrices and For-Loops** - matrices and iteration with for-loops.
 
-**03 The Tidyverse** - an introduction to the tidverse, which will provide most of the functions we need for our data analysis.
+**03 The Tidyverse** - an introduction to the tidy verse, which will provide most of the functions we need for our data analysis.
 
 **04 Dataframe Slicing** - basic dataframe slicing techniques performed on `options_intro.csv` using base R.
 
